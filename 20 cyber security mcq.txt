@@ -147,7 +147,7 @@ c) Compiler
 d) Interpreter
 
 
- _____________ can be attained by the use of malware or by changing the server’s settings.
+ _____________ can be attained by the use of malware or by changing the serverâ€™s settings.
 a) DNS poisoning
 b) DNS cracking
 c) DNS hijacking *
@@ -159,5 +159,5 @@ MS08-067 is a famous exploit for
 windows 10
 windows 8
 linux ubuntu
-windows xp
+windows xp*
 
