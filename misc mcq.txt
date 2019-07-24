@@ -1,0 +1,206 @@
+The decimal system is composed of __________ numerals or symbols.
+
+ 2
+
+ 10*
+
+ 8
+
+ 16 
+
+A digital circuit is also referred to as a/an _________ circuit.
+
+ arithmetic
+
+ logic*
+
+ electrical
+
+ sequential 
+
+CMOS means
+
+ Complementary Main-Oxide Semiconductor
+
+ Complementary Metal-Oxide Semiconductor*
+
+ Complements Main-Oxidation Semiconductor
+
+ Correlation in Metal Oxidized Semiconductor 
+
+Equivalent of decimal value of 178 in straight binary code in BCD is ________.
+
+ 11111111
+
+ 100000
+
+ 101111000*
+
+ 1100000 
+
+
+Which of the following items below is NOT one of the three basic operations of Boolean algebra?
+
+ Logical addition
+
+ Logical complementation
+
+ Logical subtraction *
+
+ Logical multiplication 
+
+ The __________ belongs to a class of codes called the minimum-change codes, in which only one bit in the code group changes when going from one step to the next.
+
+ Morse code
+
+ BCD code
+
+ Excess-3 code
+
+ Gray code *
+
+What is the hex equivalent of an ASCII code which means “HELP”?
+
+ 48 45 4C 50*
+
+ 4C 50 51 52
+
+ 58 57 58 48
+
+ 48 45 50 50 
+
+The __________ operation result will be 1 if any one or more variables is a 1.
+
+ NOT
+
+ AND
+
+ OR*
+
+ NOR 
+
+
+The Boolean expression for a six-input OR gate
+
+ A - B - C - D - E - F 
+
+ A · B · C · D · E · F
+
+ A + B + C + D + E + F*
+
+ U / V / W / X / Y / Z 
+
+
+Simplify the expression y = AB’D + AB’D’.
+
+ AB
+
+ D’
+
+ BCD
+
+ AB’ *
+
+CMOS are normally supplied a voltage up to what value?
+
+ 5.5 V
+
+ 12 V
+
+ 15 V *
+
+ 24 V
+
+ ____________ is a storage device used to accommodate a difference in rate of flow of data or time of occurrence of events when transmitting from one device to another.
+
+ Accumulator
+
+ Buffer*
+
+ Modem
+
+ Register
+
+Refers to a condition wherein the result of an arithmetic operation is more than the capacity of the output register.
+
+ Error
+
+ Infinite
+
+ Overflow*
+
+ Underflow
+
+ The first generation language of instruction, and is considered as the most primitive instruction that can be given to a computer.
+
+ Machine language*
+
+ Assembly language
+
+ COBOL
+
+ 4GL
+
+A network facility used to connect individual similar network segments forming a larger extended network is called _________.
+
+ Routers
+
+ Relays
+
+ Repeaters*
+
+ Bridges
+
+ A device that enables users to transmit computer data and fax messages along telephone lines
+
+ Converter
+
+ Facsimile
+
+ Demodulator*
+
+ Modem
+
+Network configuration that let computers share their resources.
+
+ Peer-to-peer network*
+
+ Hierarchical network
+
+ Permanent virtual circuit
+
+ Local Area Network
+
+
+Networks that transmit data across town using electromagnetic signals are called
+
+____________.
+
+ LANs
+
+ WANs
+
+ MANs*
+
+ All of the above
+
+It is term that is used to describe the form or the shape of a network.
+
+ Network model
+
+ Network layer
+
+ Network topology*
+
+
+Similar to a bridge, which connects networks at different sites, it connects networks with different protocols.
+
+ Router
+
+ Bridge
+
+ Gateway *
+
+ Repeater
+
+ Network protocol
