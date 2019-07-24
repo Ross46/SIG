@@ -1,0 +1,123 @@
+ Which of this is not a network edge device?
+a) PC
+b) Smartphones
+c) Servers
+d) Switch*
+
+Bluetooth is an example of
+a) personal area network*
+b) local area network
+c) virtual private network
+d) none of the mentioned
+
+Delimiting and synchronization of data exchange is provided by
+a) Application layer
+b) Session layer*
+c) Transport layer
+d) Link layer
+
+Bits can be send over guided and unguided media as analog signal by
+a) digital modulation*
+b) amplitude modulation
+c) frequency modulation
+d) phase modulation
+
+ICMP is primarily used for
+a) error and diagnostic functions*
+b) addressing
+c) forwarding
+d) none of the mentioned
+
+ Transport layer protocols deals with
+a) application to application communication*
+b) process to process communication
+c) node to node communication
+d) none of the mentioned
+
+This topology requires multipoint connection
+a) Star
+b) Mesh
+c) Ring
+d) Bus*
+
+This set of Computer Networks Multiple Choice Questions & Answers (MCQs) focuses on “Physical Media”.
+
+1. Which of this is not a guided media?
+a) Fiber optical cable
+b) Coaxial cable
+c) Wireless LAN*
+d) Copper wire
+
+Simple mail transfer protocol (SMTP) utilizes _________ as the transport layer protocol for electronic mail transfer.
+a) TCP*
+b) UDP
+c) DCCP
+d) SCTP
+
+Connection establishment in TCP is done by which mechanism?
+a) Flow control
+b) Three-Way Handshaking*
+c) Forwarding
+d) Synchronisation
+
+The server program tells its TCP that it is ready to accept a connection. This process is called ___________
+a) Active open
+b) Active close
+c) Passive close
+d) Passive open*
+
+The address that is unique in the scope of the network or internationally if the network is part of an international network is called as
+a) Global address*
+b) Network address
+c) Physical address
+d) IP address
+
+ Frame relay has only
+a) physical layer
+b) data link layer
+c) both physical layer and data link layer*
+d) none of the mentioned
+
+The TTL field has value 10. How many routers (max) can process this datagram?
+a) 11
+b) 5
+c) 10*
+d) 1
+
+Header size of the ICMP message is
+a) 8-bytes*
+b) 8-bits
+c) 16-bytes
+d) 16-bits
+
+In cryptography, what is cipher?
+a) algorithm for performing encryption and decryption*
+b) encrypted message
+c) both algorithm for performing encryption and decryption and encrypted message
+d) none of the mentioned
+
+This set of Computer Networks Multiple Choice Questions & Answers (MCQs) focuses on “IP Routing”.
+
+1. Which type of Ethernet framing is used for TCP/IP and DEC net?
+a) Ethernet 802.3
+b) Ethernet 802.2
+c) Ethernet II
+d) Ethernet SNAP*
+
+ The client in socket programming must know which information?
+a) IP address of Server
+b) Port number
+c) Both IP address of Server & Port number*
+d) None of the mentioned
+
+Next-Hop Method is used to reduce contents of a
+a) Revolving table
+b) Rotating Table
+c) Routing Table*
+d) Re-allocate table
+
+Network layer firewall works as a
+a) frame filter
+b) packet filter*
+c) both frame filter and packet filter
+d) none of the mentioned

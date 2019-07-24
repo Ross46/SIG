@@ -1,0 +1,163 @@
+In The Handshake Protocol Which Is The Message Type First Sent Between Client And Server ?
+
+    Server_hello
+    Client_hello *
+    Hello_request
+    Certificate_request
+
+************************************************************************************************
+
+ Which Of The Following Malicious Program Do Not Replicate Automatically?
+
+    Trojan Horse *
+    Virus
+    Worm
+    Zombie
+
+Which Of The Following Is An Independent Malicious Program That Need Not Any Host Program?
+
+    Trap Doors
+    Trojan Horse
+    Virus
+    Worm *
+
+ Why Would A Hacker Use A Proxy Server?
+
+    To Create A Stronger Connection With The Target.
+    To Create A Ghost Server On The Network.
+    To Hide Malicious Activity On The Network *
+    To Obtain A Remote Access Connection.
+
+
+To Hide Information Inside A Picture, What Technology Is Used?
+
+    Rootkits
+    Bitmapping
+    Steganography *
+    Image Rendering
+
+
+What Is The Sequence Of A TCP Connection?
+
+    SYN-ACK-FIN
+    SYN-SYN ACK-ACK *
+    SYN-ACK 
+    SYN-SYN-ACK
+
+What Tool Can Be Used To Perform SNMP Enumeration?
+
+    DNSlookup
+    Whois
+    Nslookup
+    IP Network Browser *
+
+ What Port Does Telnet Use?
+
+    22
+    80
+    20
+    23 *
+
+Enumeration Is Part Of What Phase Of Ethical Hacking?
+
+    Reconnaissance
+    Maintaining Access
+    Gaining Access*
+    Scanning
+
+
+Keyloggers Are A Form Of
+
+    Spyware*
+    Shoulder Surfing
+    Trojan
+    Social Engineering
+
+
+Which Of The Following Is A Class Of Computer Threat
+
+    DoS Attacks*
+    Phishing
+    Stalking
+    Soliciting
+
+What are some of the most common vulnerabilities that exist in a network or system?
+
+ Changing manufacturer, or recommended, settings of a newly installed application.
+ Additional unused features on commercial software packages. *
+ Utilizing open source application code
+ Balancing security concerns with functionality and ease of use of a system.
+
+Why would a ping sweep be used?
+
+ To identify live systems*
+ To locate live systems
+ To identify open ports
+ To locate firewalls
+
+
+Which Nmap scan is does not completely open a TCP connection? 
+
+ SYN stealth scan *
+ TCP connect
+ XMAS tree scan
+ ACK scan
+
+What is the maximum character Linux supports in its filenames?
+
+A) 8
+B) 128
+C) 256 *
+D) Unlimited
+
+
+SHA-l has a message digest of
+
+    160 bits *
+    512 bits
+    628 bits
+    820 bits
+
+A hash function guarantees integrity of a message. It guarantees that message has not be 
+
+    Replaced
+    Over view
+    Changed *
+    Violated
+
+ Which of the following is not an example of presentation layer issues?
+
+ Poor handling of unexpected input can lead to the execution of arbitrary instructions
+ Unintentional or ill-directed use of superficially supplied input
+ Cryptographic flaws in the system may get exploited to evade privacy
+ Weak or non-existent authentication mechanisms *
+
+Reverse engineering is often defined as the crafting technique of ____________ who uses
+ his skills to remove copy protection or trial versions from software or media.
+ crackers *
+ risk assessment team
+ auditors
+ surveillance monitoring team
+
+
+________________ is the opposite of assembler.
+a) Reassembler
+b) Disassembler *
+c) Compiler
+d) Interpreter
+
+
+ _____________ can be attained by the use of malware or by changing the server’s settings.
+a) DNS poisoning
+b) DNS cracking
+c) DNS hijacking *
+d) DNS redirecting
+
+
+MS08-067 is a famous exploit for
+
+windows 10
+windows 8
+linux ubuntu
+windows xp
+
