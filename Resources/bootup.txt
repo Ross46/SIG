@@ -1,0 +1,63 @@
+When you turn on your computer, a wide array of processes and tasks occur in the brief span of time before your desktop appears. This routine is commonly referred to as the computer boot-up process and is critical to ensure that your computer functions as efficiently as possible.
+
+Five Steps of the Computer Bootup Process
+Although it is possible to break down the boot-up process using a highly detailed analytical methodology, many computer professionals consider the boot-up process to consist of five significant steps: power on, POST, load BIOS, operating system load, and transfer of control to the OS. Understanding what specifically occurs in each of these steps, as well as how these steps relate to one another, is essential to a better understanding of how the elements of your computer work together to provide the services you rely on.
+
+Breaking Down the Computer Boot Process
+The boot process consists of five steps, the first of which is power on. It is the only step that is actively initiated by the computer user. Here, the user supplies power to the internal hardware of the computer from an external source. When power reaches the central processing unit (CPU), the code found inside the read-only memory (ROM) is executed, and the boot-up process is officially launched.
+
+Both the ROM and CPU are located on the computer motherboard. The motherboard acts as the direct interface between the external power supply (typically a wall socket) and the computer's internal hardware. Without a motherboard, the CPU would not receive the electricity it needs to function properly. In addition to the CPU, the motherboard acts as the host for virtually all the devices and connections needed for the computer to execute available tasks. Not only does the motherboard provide power to the hard drive, fans, and graphics cards inside the computer, but it also enables data to flow freely between them as needed during the execution of a specific application.
+
+The specific code inside the ROM, which is executed immediately following the power-on step, is part of a series of fundamental routines that lay the framework for the power-on self test (POST), which is the second defined step in the computer boot sequence.
+
+Exploring POST and Boot Up
+The power-on self test is a specific routine initiated immediately after power on. It is designed to ensure that all the internal hardware in the computer is fully operational and capable of continuing the boot-up sequence.
+
+During POST, various elements of the computer, such as the hard drive and memory, are checked for any apparent errors or problems. In the event that a problem is found, the boot process stalls. If no problems are discovered, the computer begins to activate various hardware inside the computer in the order listed as part of the boot-order list.
+
+To a certain extent, the boot-order list can be customized by the user, although this is not required. For users who are not interested in tailoring the boot list to specific preferences, the computer executes a preconfigured routine that is guaranteed to initialize the computer's hardware correctly.
+
+POST and Different Computer Systems
+Unlike some elements of the computer boot process, POST can occur with or without the presence of an onboard computer operating system. Instead, the activation of POST is handled exclusively by the system BIOS. With that in mind, you should still be able to execute POST and check the status of your onboard computer hardware if you are in the process of replacing an operating system and do not have one currently installed.
+
+In the event that POST uncovers a problem with your hardware, it often alerts the user using one of several codes in the form of beeping or display. The type of error issued depends largely on the problem that occurs. For example, if the video card is unable to boot properly, it is impossible to display an on-screen warning. In a situation such as this, the computer may output an audible sequence of beeps.
+
+In other situations, a POST test card may be of help. These small diagnostic tools connect to available expansion slots on a motherboard and display a specific numerical sequence that corresponds to the particular POST error that occurs. This can be particularly helpful because a monitor is not required to diagnose the problem that is occurring.
+
+Understanding the BIOS Process
+The term BIOS is an acronym for Basic Input / Output System. During POST, each device included on the boot list loads its own unique BIOS. During this process, the hardware being booted communicates directly with the motherboard and provides all the information needed to ensure that it can receive and transmit messages to other connected hardware and to the motherboard itself.
+
+The BIOS process can be thought of as paving roads between various destinations within the computer. Without these roads, the motherboard could not effectively manage the diverse array of hardware included inside the computer. BIOS acts as a fundamental getting-to-know-you process between peripheral devices and the motherboard.
+
+In the event that a computer user eventually decides to replace specific hardware elements inside a computer, or if fine details regarding device usage are changed, the BIOS must be modified accordingly. Without a properly configured BIOS, it is impossible for the computer to move forward with the boot-up process and successfully load the operating system.
+
+Moving Forward With the Operating System
+After BIOS is completed, your computer is ready to begin launching the operating system. Generally speaking, an operating system can be defined as an integrated software application that provides a platform for the computer's most fundamental and basic functions. These are tasks that must often occur following a request from the computer user, such as launching an application or accessing the functionality stored in peripheral hardware.
+
+Without an operating system, it is impossible for the majority of computer users to interact with their hardware. With that in mind, it should come as no surprise that the next step following BIOS is the loading of the operating system. To ensure that the operating system runs successfully, it first loads into the computer's memory. The BIOS is responsible for transferring the operating system into the computer's RAM from its original place of storage, the hard drive.
+
+Fundamentals of the Operating System
+Generally speaking, an operating system has three primary components. These are commonly referred to as the kernel, the user interface, and the application programming interface. The kernel represents the most fundamental control mechanisms found inside the operating system. These include reading and writing data, launching executable commands, and interfacing with peripheral devices such as a mouse and keyboard, among other tasks.
+
+The user interface acts as the intermediary between the kernel and the computer user. This graphical environment provides users with an easily understood means for issuing commands to the operating system through the use of icons and, for some advanced users, a command line.
+
+The application programming interface allows advanced users to create their own executable code within the framework of the computer. Developers use this interface to expand the functionality of devices and create freestanding applications for personal or professional use.
+
+Different Operating Systems and the Boot Process
+Regardless of the operating system a computer uses, the process for launching it within the context of the computer boot-up process is relatively similar. The only potential snag that could occur at this stage of the process is if the drivers that come included inside the operating system are unable to interact with the hardware inside the computer.
+
+During this phase of the boot process, there may be specific commands or executable routines included inside the operating system that must run. These are initiated before the boot-up process continues any further.
+
+Control Transfer and Final Steps
+After the operating system is successfully loaded and evaluated to ensure full compliance with onboard hardware, full control of the machine is transferred to it as part of the final stage of the boot process. At this point, the operating system begins to launch any specific applications that it relies on to function successfully.
+
+Keep in mind that these specific application launches are frequently customized by computer users. With that in mind, when a specific application does not launch on one computer when it does so on a different machine, it shouldn't be a cause for concern. Once the applications targeted by the operating system launch, the computer is fully booted and ready for use. At this stage, full control is granted to the computer user.
+
+Confronting Computer Problems
+A wide array of issues can lead to a computer's failure to boot correctly. If you are unsure how to begin diagnosing your computer's issues properly, it is in your best interests to consult with a professional computer technician. Not only does this save you time and energy over the long term, but it helps ensure that you don't inadvertently damage your computer further. That said, there is no shortage of helpful guides and manuals online if you prefer to tackle your hardware issues yourself.
+
+Certain basic principles must always apply when attempting to diagnose computer hardware issues. For example, always confirm that your computer is completely powered down before you open it and modify any internal devices. Failure to do so could not only damage your computer's hardware but also pose a risk to your own personal safety. Also, static can act as a dangerous force for computer hardware. Do your best to create a static-free environment before moving forward with computer repairs.
+
+Perhaps the most important skill that computer users need when it comes to fixing their own hardware is knowing when a problem's solution is over their head. Continually removing and reinstalling hardware or modifying BIOS settings may exacerbate a problem rather than remedy it. Approach these issues with a clear head and remember that professional assistance is just a phone call away.
+
+
