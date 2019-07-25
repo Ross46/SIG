@@ -1,0 +1,259 @@
+_________ is one of the most secured Linux OS that provides anonymity and incognito option for securing its user data.
+a) Fedora
+b) Tails*
+c) Ubuntu
+d) OpenSUSE
+
+ Which of the following OS does not comes under a secured Linux OS list?
+a) Qubes OS
+b) Tails
+c) Tin Hat
+d) Ubuntu*
+
+ Using the ______ account of a UNIX system, one can carry out administrative functions.
+a) root*
+b) administrative
+c) user
+d) client
+
+
+       #!/bin/sh	
+
+       var="foo"
+
+       my_function() {
+
+           var="Linux"
+
+           echo $var
+
+       }
+
+       my_function
+
+       exit 0
+
+a) foo
+b) Linux
+c) Command not found
+d) None of the mentioned
+
+
+
+       #!/bin/sh
+
+       foo_function1() {
+
+           a=5
+
+           echo "This is the first function"
+
+           foo_function2
+
+       }
+
+       foo_function2() {
+
+           echo "This is the second function" 
+
+           foo_function3
+
+       }
+
+       foo_function3() {
+
+           echo "This is the third function"
+
+       }
+
+       foo_function1
+
+       exit 0
+
+a) This is the first function*
+This is the second function
+This is the third function
+b) This is the first function
+This is the third function
+This is the second function
+c) This is the second function
+This is the first function
+This is the third function
+d) This is the third function
+This is the first function
+This is the second function
+
+
+ Which command will delete all the blank lines in file old.txt?
+a) sed ‘/d’ old.txt
+b) sed ‘/^/d’ old.txt
+c) sed ‘/^$/d’ old.txt*
+d) sed ‘/^*/d’ old.txt
+
+ An awk program can be run by
+a) including the program in the command that runs awk
+b) putting it into a file and run with a command
+c) running an executable awk script
+d) all of the mentioned*
+
+The command “awk {print $1} foo.txt” will
+a) print the first line of file foo.txt
+b) print the first field of every line in foo.txt*
+c) generate syntax error
+d) none of the mentioned
+
+What is the output of this program?
+
+        #! /usr/bin/awk -f
+
+        BEGIN {
+
+            one=10;
+
+            two=3;
+
+            print (one%two)+10 
+
+        }
+a) (one%two)+10
+b) 13
+c) 11*
+d) syntax error
+
+ To run the script, we should make it executable first by using _____
+a) chmod +x*
+b) chmod +r
+c) chmod +w
+d) chmod +rwx
+
+ 
+
+If 7 terminals are currently logged on. then the command
+date ; who | wc -l, displays
+A.date followed by 7*
+B.date followed by 8
+C.date followed by 1
+D.an error message
+
+
+
+Which command is used to change protection mode of files starting with the string emp and ending with 1,2, or 3?
+chmod u+x emp[1-3]<======== ANSWER no * bcs it is denoted in option 2
+chmod 777 emp*
+chmod u+r ??? emp
+chmod 222 emp?
+
+
+Create a new file “new.txt” that is a concatenation of “file1.txt” and “file2.txt”
+a) cp file.txt file2.txt new.txt
+b) cat file1.txt file2.txt > new.txt  *
+c) mv file[12].txt new.txt
+d) ls file1.txt file2.txt | new.txt
+
+
+What is the output of the following code:
+
+os=Unix
+echo 1.$os 2."$os" 3.'$os' 4.$os
+ 
+a) 1.Unix 2.Unix 3.Unix 4.Unix
+b) 1.Unix 2.Unix 3.$os 4.Unix *
+c) 1.Unix 2.Unix 3.Unix 4.$os
+d) 1.Unix 2.$os 3.$os 4.$os
+
+
+
+ What is the output of the following program?
+
+b = 
+[ -n $b ]
+    echo $?
+[ -z $b ]
+    echo $?
+a) 1
+   1
+b) 2
+   2
+c) 0 *
+   0
+d) 0
+   1
+
+
+One of the entry of /etc/passwd file is shown below:
+user1:x:1111:2222:Sanfoundry:/home/user1:/bin/bash
+Which among the following will print userid and home dir in the following pattern “user1:/home/user1”
+a) awk `{print $1 “:” $6}` /etc/passwd *
+b) awk `{print $1 “:” $7}` /etc/passwd
+c) awk `{print $2 “:” $6}` /etc/passwd
+d) awk `{print $2 “:” $7}` /etc/passwd
+
+who | cut –d ” ” -f1
+what is the ouput if the who command displays like this
+user1 tty 0 1234
+a) user1 *
+b) user1 tty 0 1234
+c) tty
+d) tty 0 1234
+
+
+Which expression use the value of the enclosed arithmetic expression?
+a) $(()) *
+b) $()
+c) ${}
+d) $[] View Answer
+
+ Executing cat /etc/password > /dev/sda as superuser will
+a) Write data into a regular file called /dev/sda
+b) Write data to the physical device sda*
+c) Create a temporary file /dev/sda and write data to it
+d) None of the above
+
+
+What is the output of the following program?
+
+x = 3; y = 5; z = 10;
+if [( $x -eq 3 ) -a ( $y -eq 5 -o  $z -eq 10 )]
+then
+    echo $x
+else
+    echo $y
+fi
+
+a) 1
+b) 3 *
+c) 5
+d) Error
+
+
+ What is the output of the following code:
+
+os=Unix
+echo 1.$os 2."$os" 3.'$os' 4.$os
+ 
+a) 1.Unix 2.Unix 3.Unix 4.Unix
+b) 1.Unix 2.Unix 3.$os 4.Unix*
+c) 1.Unix 2.Unix 3.Unix 4.$os
+d) 1.Unix 2.$os 3.$os 4.$os
+
+
+What would be the current working directory at the end of the following command sequence?
+
+ $ pwd
+ /home/user1/proj
+ $ cd  src
+ $ cd  generic
+ $ cd  .
+ $ pwd 
+
+a) /home/user1/proj
+b) /home/user1/proj/src
+c) /home/user1
+d) /home/user1/proj/src/generic* 
+
+
+
+
+
+
+
