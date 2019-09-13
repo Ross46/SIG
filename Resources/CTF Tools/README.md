@@ -1,4 +1,4 @@
-# ctf-tools 
+# CTF Tools
 
 ## Binary
 
