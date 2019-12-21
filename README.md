@@ -1,5 +1,5 @@
 # SIG  
 Stay tuned for updates  
 
-TEST LINK:
-https://forms.gle/r5UJjviHpfgEAxey7
+TEST FLAG LINK:
+https://forms.gle/f5iJSfdDYXBL2AGp6
